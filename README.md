@@ -1,5 +1,5 @@
 # **PROJETO RAYCAST**
-### Alunos: Lucas Barreto e Ranier Dalton 
+### Alunos: João Caetano e Ranier Dalton 
 
 ## Descrição 
 <p align="justify"> 

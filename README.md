@@ -8,11 +8,14 @@
 
 ## Gameplay
 <p align="justify"> 
-	A Gameplay se resume em uma bola vermelha no qual tem uma movimentação somente para os lados e tem como objetivo eliminar "hordas" de zumbis para acumular pontos até vencer, você ganha caso chegue na terceira horda.
+	A Gameplay se resume em uma bola vermelha no qual tem uma movimentação somente para os lados e tem como objetivo eliminar "hordas" de zumbis para acumular pontos até vencer, você ganha caso chegue na terceira horda. 
+<br>
 	Mecânica: 
-	- Você pode controlar a bola da esquerda para direita com os direcionais esquerda e direita ou botões A e D.
-	- Com o botão esquerdo do mouse voçê ataca e elimina os zumbis em frente.
+<br>
+	:small_blue_diamond: Tem como objetivo disponibilizar imagens de quadrinhos tipicamente japoneses e animes para utilização como tela de fundo de celulares, tablets e PC's. Funciona em sua forma plena quando está offline. Você pode controlar a bola da esquerda para direita com os direcionais esquerda e direita ou botões A e D.
+	:small_blue_diamond: Tem como objetivo disponibilizar imagens de quadrinhos tipicamente japoneses e animes para utilização como tela de fundo de celulares, tablets e PC's. Funciona em sua forma plena quando está offline.  Com o botão esquerdo do mouse voçê ataca e elimina os zumbis em frente.
 </p>
+
 ### O que são as hordas de zumbis?
 <p align="justify"> 
 	As hordas de zumbis se resumem a três zumbis aparecendo simultaneamente e aleatoriamente na cena onde o jogador (esfera vermelha), irá ter que se alinhar na mesma direção dos zumbis e eliminá-los, assim ganhando pontos. 

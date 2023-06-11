@@ -8,13 +8,25 @@
 
 ## Gameplay
 <p align="justify"> 
-	A Gameplay se resume em uma bola vermelha que tem como objetivo eliminar zumbis para acumular pontos até vencer.
-	
+	A Gameplay se resume em uma bola vermelha no qual tem uma movimentação somente para os lados e tem como objetivo eliminar "hordas" de zumbis para acumular pontos até vencer, você ganha caso chegue na terceira horda.
+	Mecânica: 
 	- Você pode controlar a bola da esquerda para direita com os direcionais esquerda e direita ou botões A e D.
 	- Com o botão esquerdo do mouse voçê ataca e elimina os zumbis em frente.
-	- São contabilizados 1 ponto por zumbi eliminado e -1 ponto por erro. caso alcance 3 pontos você ganha mas se alcaçar -1 perde.
-	- Zumbis aparecem de forma randomica em uma linha horizontal ao player.
-	- Uma tela de vitoria ou derrota aparece caso atinja os requisitos.
+	
+	### O que são as hordas de zumbis?
+	<p align="justify"> 
+		As hordas de zumbis se resumem a três zumbis aparecendo simultaneamente e aleatoriamente na cena onde o jogador (esfera vermelha), irá ter que se alinhar na mesma direção dos zumbis e eliminá-los, assim ganhando pontos. 
+	</p>
+	
+	### Como funciona o sistema de pontuação?
+	<p align="justify"> 
+		O sistema de pontuação funciona por acerto ou erro dos tiros nos alvos. Ao acertar os zumbis, ganha 10 pontos, porém ao falhar na tentativa você perde 4 pontos. Inicialmente o jogador começa com 0 pontos, que caso desacerte o alvo logo de início, deve reiniciar, e ir assim até chegar na terceira horda.
+	</p>
+	
+	### Elementos do HUD/GUI
+	<p align="justify"> 
+		Contém poucas informações na tela, durante a gameplay, temos a presença de dois Text's, um informando a atual pontuação do jogador e outra informando ao jogador se ele conseguiu atingir os alvos, tendo duas possibilidades de mensagens, uma sendo "Errou!" de coloração vermelha e outra "Acertou!" com coloração azul. Ao perder ou ganhar, aparece um novo elemento Text na tela, que se o jogador teve uma pontuação igual ou menor que 0, tem um texto informando "Você perdeu!!" em vermelho, e no caso de chegar a terceira horda, tem a mensagem "Você venceu!!" em tom azul, no caso da aparição destes dois elementos, o tempo da cena diminui drasticamente, assim desacelerand a cena. 
+	</p>
 	
 	
 </p >

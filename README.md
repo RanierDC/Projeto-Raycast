@@ -12,7 +12,7 @@
 	Mecânica: 
 	- Você pode controlar a bola da esquerda para direita com os direcionais esquerda e direita ou botões A e D.
 	- Com o botão esquerdo do mouse voçê ataca e elimina os zumbis em frente.
-	
+</p >
 	### O que são as hordas de zumbis?
 	<p align="justify"> 
 		As hordas de zumbis se resumem a três zumbis aparecendo simultaneamente e aleatoriamente na cena onde o jogador (esfera vermelha), irá ter que se alinhar na mesma direção dos zumbis e eliminá-los, assim ganhando pontos. 
@@ -29,7 +29,7 @@
 	</p>
 	
 	
-</p >
+
 
 ### O porquê da iluminação ser escura.
 <p align="justify"> 

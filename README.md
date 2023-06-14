@@ -37,9 +37,9 @@
 	
 
 
-### O porquê da iluminação ser escura.
+### Escolha de iluminação
 <p align="justify"> 
-	Escolhemos este tipo de iluminação por conta de dar ao jogo um ar mais de suspence.
+	Ajustamos a luz para que pudéssemos deixar o ambiente bem escuro, porém com uma iluminação artificial acima dos objetos, assim deixando um ar de suspence a cena, por mais que não seja um jogo para amedrontar. Para realizar esta iluminação, rotacionamos o Directional Light para deixarmos a cena totalmente escura, logo após isso não se podia enxergar nada, então foi criado um objeto com Point Light, que ilumina a cena de cima, possibilitando o jogador ver os zumbis para atingi-los e não iluminar a cena ao redor. 
 </p>
 
 

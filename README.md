@@ -16,7 +16,9 @@
 <br>
 	:small_blue_diamond: Você pode controlar a bola da esquerda para direita com os direcionais esquerda e direita ou botões A e D.
 <br>
-	:small_blue_diamond: Com o botão esquerdo do mouse voçê ataca e elimina os zumbis em frente.
+	:small_blue_diamond: Com o botão esquerdo do mouse você ataca e elimina os zumbis em frente.
+<br>
+	:small_blue_diamond: Você deve alinhar o personagem com os zumbis(linha reta), para que possa entrar na trajetória do ataque.
 </p>
 
 ### O que são as hordas de zumbis?

@@ -33,11 +33,12 @@
 	
 ### Elementos do HUD/GUI
 <p align="justify"> 
-	Contém poucas informações na tela, durante a gameplay, temos a presença de dois Text's, um informando a atual pontuação do jogador e outra informando ao jogador se ele conseguiu atingir os alvos, tendo duas possibilidades de mensagens, uma sendo "Errou!" de coloração vermelha e outra "Acertou!" com coloração azul. Ao perder ou ganhar, aparece um novo elemento Text na tela, que se o jogador teve uma pontuação igual ou menor que 0, tem um texto informando "Você perdeu!!" em vermelho, e no caso de chegar a terceira horda, tem a mensagem "Você venceu!!" em tom azul, no caso da aparição destes dois elementos, o tempo da cena diminui drasticamente, assim desacelerand a cena. 
+	Contém poucas informações na tela, durante a gameplay, temos a presença de dois Text's, um informando a atual pontuação do jogador e outra informando ao jogador se ele conseguiu atingir os alvos. O texto verificador de colisão tem duas possibilidades de mensagens, uma sendo "Errou!" de coloração vermelha e outra "Acertou!" com coloração azul, a serventia é facilitar o uso da mecânica que complica o jogo, que seria o alinhamento do personagem. 
 </p>
-	
-	
-
+<p align="justify"> 
+	 Ao perder ou ganhar, aparece um novo elemento Text na tela, que se o jogador teve uma pontuação igual ou menor que 0, tem um texto informando "Você perdeu!!" em vermelho, e no caso de chegar a terceira horda, tem a mensagem "Você venceu!!" em tom azul, no caso da aparição destes dois elementos, o tempo da cena diminui drasticamente, assim desacelerand a cena.
+</p>
+<br>
 
 ### Escolha de iluminação
 <p align="justify"> 

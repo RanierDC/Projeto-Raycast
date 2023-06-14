@@ -23,7 +23,7 @@
 
 ### O que são as hordas de zumbis?
 <p align="justify"> 
-	As hordas de zumbis se resumem a três zumbis aparecendo simultaneamente e aleatoriamente na cena onde o jogador (esfera vermelha), irá ter que se alinhar na mesma direção dos zumbis e eliminá-los, assim ganhando pontos. 
+	As hordas de zumbis se resumem a três zumbis aparecendo simultaneamente e aleatoriamente na cena onde o jogador (esfera vermelha), irá ter que se alinhar e eliminá-los, assim ganhando pontos. 
 </p>
 	
 ### Como funciona o sistema de pontuação?

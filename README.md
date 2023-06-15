@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-<img height="300px" src="https://github.com/RanierDC/Projeto-Raycast/assets/90422755/3878d04c-fb55-4e59-86d6-f10e7855d30f"/>
+<img height="300px" src="https://github.com/RanierDC/Projeto-Raycast/assets/90422755/ed1f6e9f-2ef0-4a09-b9fd-fdf365baa6c3"/>
 </div>
 
 ## Gameplay
@@ -26,7 +26,7 @@
 </p>
 
 <div align="center">
-<img height="350px" src="https://github.com/RanierDC/Projeto-Raycast/assets/90422755/bafbe426-5310-4de8-97e3-a2c1fb5434ce"/>
+<img height="350px" src="https://github.com/RanierDC/Projeto-Raycast/assets/90422755/ca03c4ba-c935-487b-b7b0-f405b03f7ec6"/>
 </div>
 
 ### O que são as hordas de zumbis?
@@ -35,7 +35,7 @@
 </p>
 
 <div align="center">
-<img height="300px" src="https://github.com/RanierDC/Projeto-Raycast/assets/90422755/34aaad14-0c35-435d-be65-9cf6180b574b"/>
+<img height="300px" src="https://github.com/RanierDC/Projeto-Raycast/assets/90422755/628d028f-1e2f-46ae-a23b-fd9c1c80e338"/>
 </div>
 	
 ### Como funciona o sistema de pontuação?
@@ -55,8 +55,8 @@
 </p>
 <br>
 <div align="center">
-<img height="300px" src="https://github.com/RanierDC/Projeto-Raycast/assets/90422755/d6b3a03e-ac62-4ab3-94b6-b9286784a4b6"/>
-<img height="300px" src="https://github.com/RanierDC/Projeto-Raycast/assets/90422755/9538147a-70cc-431c-b203-6cbd6203efdb"/>
+<img height="300px" src="https://github.com/RanierDC/Projeto-Raycast/assets/90422755/0c2e6a64-345a-4232-8623-60c046f1512a"/>
+<img height="300px" src="https://github.com/RanierDC/Projeto-Raycast/assets/90422755/22f53d0b-c3f5-4c92-abad-43971cd4ea72"/>
 </div>
 
 ## Escolha de iluminação
